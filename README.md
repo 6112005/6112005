@@ -1,0 +1,3 @@
+- 👋 Hi, I’m sam osama
+- 👀 I’m interested in learning programming 
+- 🌱 I’m currently learning c++ and python with OOP
